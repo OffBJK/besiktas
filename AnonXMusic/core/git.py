@@ -34,7 +34,7 @@ def git():
     if config.GIT_TOKEN:
         GIT_USERNAME = REPO_LINK.split("https://github.com/AdanaliMuhendis/alem")[1].split("/")[0]
         TEMP_REPO = REPO_LINK.split("https://github.com/AdanaliMuhendis/alem")[1]
-        UPSTREAM_REPO = f"https://github.com/AdanaliMuhendis:{config.GIT_TOKEN}@{/alem}"
+        UPSTREAM_REPO = f"https://github.com/AdanaliMuhendis:{config.GIT_TOKEN}@{https://github.com/AdanaliMuhendis/alem}"
     else:
         UPSTREAM_REPO = config.UPSTREAM_REPO
     try:
