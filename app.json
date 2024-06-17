@@ -1,12 +1,12 @@
 {
-    "name": "ᴀɴᴏɴ ダ ᴍᴜsɪᴄ",
-    "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/b8a0c1a00db3e57522b53.jpg",
+    "name": "𝐀𝐋𝐄𝐌 𝐌𝐔𝐒𝐈𝐂",
+    "description": "Telegram Müzik Botu, Pyhton ve Py-Tgcalls ile yazılmıştır.",
+    "logo": "https://te.legra.ph/Alem-Music-05-27",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "AnonX",
+    "Alem",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
@@ -53,7 +53,7 @@
         "required": false
       },
       "LOGGER_ID": {
-        "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
+        "description": "Your Log Group ID, add your bot and promote as an admin with full rights!.",
         "value": "",
         "required": true
       }
