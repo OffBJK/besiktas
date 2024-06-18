@@ -8,3 +8,8 @@ cache/
 downloads/
 __pycache__/
 *.session-journal
+.git/
+Procfile
+README.md
+.gitignore
+runtime.txt
