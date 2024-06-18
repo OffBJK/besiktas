@@ -5,40 +5,40 @@ answer = []
 answer.extend(
     [
         InlineQueryResultArticle(
-            title="Pᴀᴜsᴇ, dur",
+            title="Pᴀᴜsᴇ",
             description=f"ᴩᴀᴜsᴇ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
             thumb_url="https://telegra.ph/file/c5952790fa8235f499749.jpg",
-            input_message_content=InputTextMessageContent("/pause, /dur"),
+            input_message_content=InputTextMessageContent("/pause"),
         ),
         InlineQueryResultArticle(
-            title="Rᴇsᴜᴍᴇ, devam",
+            title="Rᴇsᴜᴍᴇ",
             description=f"ʀᴇsᴜᴍᴇ ᴛʜᴇ ᴩᴀᴜsᴇᴅ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
             thumb_url="https://telegra.ph/file/c5952790fa8235f499749.jpg",
-            input_message_content=InputTextMessageContent("/resume, /devam"),
+            input_message_content=InputTextMessageContent("/resume"),
         ),
         InlineQueryResultArticle(
-            title="Sᴋɪᴩ, atla",
+            title="Sᴋɪᴩ",
             description=f"sᴋɪᴩ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ ᴀɴᴅ ᴍᴏᴠᴇs ᴛᴏ ᴛʜᴇ ɴᴇxᴛ sᴛʀᴇᴀᴍ.",
             thumb_url="https://telegra.ph/file/c5952790fa8235f499749.jpg",
-            input_message_content=InputTextMessageContent("/skip, /atla"),
+            input_message_content=InputTextMessageContent("/skip"),
         ),
         InlineQueryResultArticle(
-            title="Eɴᴅ, son",
+            title="Eɴᴅ",
             description="ᴇɴᴅ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
             thumb_url="https://telegra.ph/file/c5952790fa8235f499749.jpg",
-            input_message_content=InputTextMessageContent("/end, /son"),
+            input_message_content=InputTextMessageContent("/end"),
         ),
         InlineQueryResultArticle(
-            title="Sʜᴜғғʟᴇ, karıştır",
+            title="Sʜᴜғғʟᴇ",
             description="sʜᴜғғʟᴇ ᴛʜᴇ ǫᴜᴇᴜᴇᴅ sᴏɴɢs ɪɴ ᴩʟᴀʏʟɪsᴛ.",
             thumb_url="https://telegra.ph/file/c5952790fa8235f499749.jpg",
-            input_message_content=InputTextMessageContent("/shuffle, /karıştır"),
+            input_message_content=InputTextMessageContent("/shuffle"),
         ),
         InlineQueryResultArticle(
-            title="Lᴏᴏᴩ, ileri, geri",
+            title="Lᴏᴏᴩ",
             description="ʟᴏᴏᴩ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ ᴛʀᴀᴄᴋ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
             thumb_url="https://telegra.ph/file/c5952790fa8235f499749.jpg",
-            input_message_content=InputTextMessageContent("/loop 3, /ileri, /geri"),
+            input_message_content=InputTextMessageContent("/loop 3,"),
         ),
     ]
 )
