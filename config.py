@@ -87,11 +87,11 @@ PING_IMG_URL = getenv(
 )
 PLAYLIST_IMG_URL = "https://te.legra.ph/Alem-Music-05-27"
 STATS_IMG_URL = "https://te.legra.ph/Alem-Music-05-27"
-TELEGRAM_AUDIO_URL = None
-TELEGRAM_VIDEO_URL = None
-STREAM_IMG_URL = None
-SOUNCLOUD_IMG_URL = None
-YOUTUBE_IMG_URL = None
+TELEGRAM_AUDIO_URL = "https://te.legra.ph/Alem-Music-05-27"
+TELEGRAM_VIDEO_URL = "https://te.legra.ph/Alem-Music-05-27"
+STREAM_IMG_URL = "https://te.legra.ph/Alem-Music-05-27"
+SOUNCLOUD_IMG_URL = "https://te.legra.ph/Alem-Music-05-27"
+YOUTUBE_IMG_URL = "https://te.legra.ph/Alem-Music-05-27"
 SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/37d163a2f75e0d3b403d6.jpg"
 SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/b35fd1dfca73b950b1b05.jpg"
 SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/95b3ca7993bbfaf993dcb.jpg"
