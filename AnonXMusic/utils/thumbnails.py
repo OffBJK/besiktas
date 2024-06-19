@@ -62,7 +62,7 @@ async def get_thumb(videoid):
                 if resp.status == 200:
                     f = await aiofiles.open()
                     await f.write(await resp.read())
-                    await f.close(f"cache/thumb{videoid}.png", mode="wb)
+                    await f.close(f"cache/thumb{videoid}.png", mode="wb")
 
         youtube = Image.open(f"cache/thumb{videoid}.png")
         image1 = changeImageSize(1280, 720, youtube)
