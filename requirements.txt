@@ -1,4 +1,4 @@
-aiofiles
+aiofiles==24.1
 aiohttp==3.9.3
 asyncio==3.4.3
 beautifulsoup4
@@ -26,4 +26,3 @@ youtube-search-python
 git+https://github.com/yt-dlp/yt-dlp@master
 git+https://github.com/alexmercerind/youtube-search-python@main
 git+https://github.com/joetats/youtube_search@master
-python-nodejs
