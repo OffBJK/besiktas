@@ -48,7 +48,7 @@ admin_2 : "➻ Yayın Duraklatıldı 😒 🎄\n│ \n↬ Tarafından : {0} 🥀
 admin_3 : "» Yayının Duraklatıldığını Hatırlıyorsun Değil Mi ?"
 admin_4 : "➻ Yayın Dewamkee 😅 🎄\n│ \n↬ Tarafından : {0} 🥀"
 admin_5 : "➻ Yayın Durdu 🥺 🎄\n│ \n↬ Tarafından : {0} 🥀"
-admin_6 : "➻ Parça Atlandı 🙃 🎄\n│ \n↬ Tarafından : {0} 🥀\n\n<b>» Sırada başka parça yok 😕</b> {1}, <b>Yatmaya Gidiyorum 𝐄𝐥𝐥𝐞𝐬̧𝐦𝐞 😏</b>"
+admin_6 : "➻ Parça Atlandı 🙃 🎄\n│ \n↬ Tarafından : {0} 🥀\n\n<b>» Sırada başka parça yok 😕</b> {1}, <b>Yatmaya Gidiyorum</b> 𝐄𝐥𝐥𝐞𝐬̧𝐦𝐞 😏"
 admin_7 : "» Akış **{0}** olarak değiştirilirken hata oluştu\n\nLütfen /skip komutunu tekrar kullanın."
 admin_8 : "» Döngü etkinleştirilmesi nedeniyle belirli bir parçaya geçilemiyor. Bu özelliği kullanmak için lütfen döngüsel oynatmayı `/loop disable` üzerinden devre dışı bırakın."
 admin_9 : "» Lütfen 1, 2 veya 4 gibi belirli parçalar için sayısal sayılar kullanın."
