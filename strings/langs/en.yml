@@ -5,7 +5,7 @@ general_1 : "<u><b>» Bir kullanıcının mesajını yanıtlayın veya username/
 general_2 : "<u><b>» Sorgunuz işlenirken bazı **istisnalar oluştu**.\n\nİstisna Türü: <code>{0}</code></b></u>"
 general_3 : "<u><b>» Bu sohbet grubunda isimsiz bir yöneticisiniz!\nYönetici Haklarından Kullanıcı Hesabına geri dönün.</b></u>"
 general_4 : "<u><b>» Bu eylemi gerçekleştirmek için sesli sohbet haklarına sahip yönetici olmanız gerekir.</b></u>"
-general_5 : "<u><b>» Bot sesli sohbette yayın yapmıyor.</b></u>"
+general_5 : "<b>» 𝐀𝐥𝐞𝐦 𝐌𝐮̈𝐳𝐢𝐤 𝐁𝐨𝐭 𝐃𝐢𝐧𝐥𝐞𝐧𝐦𝐞 𝐌𝐨𝐝𝐮𝐧𝐝𝐚 😴 𝐄𝐥𝐥𝐞𝐬̧𝐦𝐞 𝐁𝐚𝐛𝐚 𝐘𝐨𝐫𝐠𝐮𝐧 🤙🏻</b>"
 
 tg_1 : "<u><b>{0} ᴅᴏᴡɴʟᴏᴀᴅᴇʀ</b></u>\n\n<b>ғɪʟᴇ sɪᴢᴇ :</b> {1}\n<b>ᴄᴏᴍᴘʟᴇᴛᴇᴅ :</b> {2}\n<b>ᴘᴇʀᴄᴇɴᴛᴀɢᴇ :</b> {3}%\n\n<b>sᴘᴇᴇᴅ :</b> {4}/s\n<b>ᴇᴛᴀ :</b> {5}"
 tg_2 : "sᴜᴄᴄᴇssғᴜʟʟʏ ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ, ᴘʀᴏᴄᴇssɪɴɢ ғɪʟᴇ...\n\n<b>ᴛɪᴍᴇ ᴇʟᴀᴘsᴇᴅ :</b> {0}"
