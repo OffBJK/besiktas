@@ -1,11 +1,11 @@
 name : 🇹🇷 Turkish
 
 
-general_1 : "»  BİR KULLANICININ MESAJINA CEVAP VERİN VEYA KULLANICI ADINI/KULLANICIYI VERİN."
-general_2 : "» SİZİ İŞLERKEN BİR ŞEYLER YANLIŞ OLDU SORGU.\n\nEXCEPTION:<kod>{0}</code>"
-general_3 : "BU SOHBETTE ANONİM BİR YÖNETİCİSİNİZ, GERİ DÖNÜN BENİ KULLANDIĞINIZ İÇİN KULLANICI HESABINA GERİ DÖN.."
-general_4 : "» GÖRÜNTÜLÜ SOHBETLERİ YÖNETME İZİNİNİZ YOK.\n\nYÖNETİCİ ÖNBELLEKİNİ YENİDEN YÜKLE/yeniden yükle"
-general_5 : "» BOT GÖRÜNTÜLÜ SOHBETTE AKIŞ YAPMIYOR."
+general_1 : "» Bir kullanıcının mesajını yanıtlayın veya username/user_id verin."
+general_2 : "» Sorgunuz işlenirken bazı **istisnalar oluştu**.\n\nİstisna Türü: <code>{0}</code>"
+general_3 : "Bu sohbet grubunda isimsiz bir yöneticisiniz!\nYönetici Haklarından Kullanıcı Hesabına geri dönün."
+general_4 : "» Bu eylemi gerçekleştirmek için sesli sohbet haklarına sahip yönetici olmanız gerekir."
+general_5 : "» Bot sesli sohbette yayın yapmıyor."
 
 tg_1 : "<u><b>{0} İNDİRİCİ</b></u>\n\n<b>DOSYA BOYUTU:</b> {1}\n<b>tamamlandı:</b>{2}\n<b>YÜZDE:</b>{3}% \n\n<b>HIZ:</b>{4}/s\n<b>ETA:</b>{5}"
 tg_2 : "Başarıyla İNDİRİLDİ, DOSYA İŞLENİYOR...\n\n<b>ZAMAN GEÇTİ:</b>{0)"
