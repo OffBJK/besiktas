@@ -12,6 +12,7 @@ HELP_1 = """<b><u>Yönetici Komutları :</b></u>
 /player : Şarkı ayrıntılarını ve oynatma panelini gösterir.
 /queue : Sıraya alınmış parçaların listesini gösterir.
 /song : Youtube'dan herhangi bir parçayı mp3 veya mp4 formatında indirir.
+**𝐍𝐎𝐓: <b>Müzik indirme özelliği kapatılmıştır.<b>
 
 ☆✧....𝐁𝐘🫧 » [⏤𝐇𝐀𝐘𝐀𝐓𝐢 ®]...(https://t.me/AdanaliMuhendis)....🥀🥀✧☆"""
 
@@ -149,6 +150,7 @@ HELP_14 = """
 <b><u>Şarkı indir :</b></u>
 
 /song [sᴏɴɢ ɴᴀᴍᴇ/ʏᴛ ᴜʀʟ] : Youtube'dan herhangi bir parçayı mp3 veya mp4 formatında indirir.
+**𝐍𝐎𝐓: <b>Müzik indirme özelliği kapatılmıştır.<b>
 
 ☆✧....𝐁𝐘🫧 » [⏤𝐇𝐀𝐘𝐀𝐓𝐢 ®]...(https://t.me/AdanaliMuhendis)....🥀🥀✧☆"""
 
