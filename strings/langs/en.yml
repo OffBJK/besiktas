@@ -60,7 +60,7 @@ admin_14 : "» Bunu gerçekleştirmek için sesli sohbet haklarına sahip yönet
 admin_15 : "» Sırada karıştırılacak bir şey yok"
 admin_16 : "» Karıştırılamadı.\n\nSırayı kontrol edin: /queue"
 admin_17 : "<b>ᴇxᴀᴍᴘʟᴇ :</b>\n\n/loop <code>enable</code>/<code>disable</code>\n/loop <code>10</code>/<code>9</code>/<code>8</code>/<code>7</code>"
-admin_18 : "» Döngü, {0} tarafından **{1}** kez etkinleştirildi. Bot şimdi sesli sohbette çalmakta olan müziği **{1}** kez tekrarlayacak"
+admin_18 : "» Döngü, {1} tarafından bot, çalmakta olan müziği **{0}** defa tekrarlayacak."
 admin_19 : "» Döngü Oynatma devre dışı bırakıldı"
 admin_20 : "**Kullanım:**\n/loop [enable/disable] veya [1-10 arası sayı]\n\n**Örnek:** /loop 5"
 admin_21 : "» Döngü oynatma için lütfen 1-10 arasındaki sayıları kullanın"
